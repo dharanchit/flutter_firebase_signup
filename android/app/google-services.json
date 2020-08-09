@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13748430726",
+    "firebase_url": "https://meet-b020d.firebaseio.com",
+    "project_id": "meet-b020d",
+    "storage_bucket": "meet-b020d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13748430726:android:6ca57700c6681e4906ae07",
+        "android_client_info": {
+          "package_name": "com.example.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13748430726-r7l8bt7r17557ss3vgasob4gb90o58ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn1hRcxcPJrMVdvG-OUM-4vxbpNmQY9vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13748430726-r7l8bt7r17557ss3vgasob4gb90o58ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
